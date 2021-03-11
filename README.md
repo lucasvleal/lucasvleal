@@ -11,7 +11,7 @@ Some of the technologies I've worked with
 
 <strong>Frontend</strong>
 * 👨🏻‍💻 JavaScript | TypeScript
-* 🌐 HTML5 | CSS3 |JQuery
+* 🌐 HTML5 | CSS3 | JQuery
 * 📱 React Native
 * 🖥️ ReactJS
 
@@ -31,7 +31,7 @@ Some of the technologies that I put into practice in personal projects
 
 * 🐍 Python | Django | Flask
 * ☕ Java
-* 🛢️ Redis | PostgreSQL
+* 🛢️ Redis | PostgreSQL | MongoDB
 * 🟪 Heroku
 
 ## 📫 Get in touch
