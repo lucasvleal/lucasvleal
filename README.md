@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Lucas Leal 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Lucas Leal 👨‍💻
 
 I am a mobile development enthusiast and FullStack Developer. I am passionate about sports and technologies and always willing to learn new things.
 
