@@ -26,6 +26,7 @@ Some of the technologies I've worked with
 * 🐳 Docker
 * 🅰️ AWS | S3 | EC2
 * 🟥 Netlify
+* 🛒 OpenCart
 
 Some of the technologies that I put into practice in personal projects
 
