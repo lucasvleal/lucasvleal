@@ -38,7 +38,7 @@ Some of the technologies that I put into practice in personal projects
 ## 📫 Get in touch
 - LinkedIn - [Lucas Viani Leal](https://www.linkedin.com/in/lucas-viani-leal/)
 - Email - [lucasleal.dev@gmail.com](mailto:lucasleal.dev@gmail.com)
-- Website - [coming soon...](https://github.com/lucasvleal)
+- Website - [lucasleal.dev.br](https://www.lucasleal.dev.br)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lucasvleal/lucasvleal)
