@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Lucas Leal 👨‍💻 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lucasvleal/lucasvleal)
-
 I'm a Software Engineer and mobile development enthusiast. I'm passionate about sports and technologies and always willing to learn new things.
 
 #### 📍 Currently I work as Software Engineer @ [Trio Developers](https://github.com/usetrio).
